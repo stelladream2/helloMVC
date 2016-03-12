@@ -9,7 +9,7 @@
 <body>
 
 <form action="/helloMVC/DoLogin" method="GET">
- Customer ID (id001, id002, id003, id004, id005): at master branch
+ Customer ID (id001, id002, id003, id004): at master branch
 <input type="text" name="customerId" /> <br/>
 <input type="submit" value="Submit" />
 </form>
