@@ -6,3 +6,5 @@ This source shows MVC architecture by integrating servlets and jsps.
 I hope that you understand MVC design pattern.  
 This source is available free of charge.
 Thanks from nykim. 
+
+April, 2016
