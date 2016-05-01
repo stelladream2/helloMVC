@@ -25,6 +25,8 @@ public class CustomerMap {
                 "stacy@hansung.ac.kr"));
 	    addCustomer(new Customer("id007", "Lexi",
                 "lexi@hansung.ac.kr"));
+            addCustomer(new Customer("id008", "Daniel",
+                "daniel@hansung.ac.kr"));   
 	  }
 
 	  /** Finds the customer with the given ID.
